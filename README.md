@@ -1,5 +1,5 @@
 # Music-Theory
-Class Notes for 57-152 Harmony @ Carnegie Mellon University.
+Class Notes for 57-152 Harmony @ Carnegie Mellon University. [View Github](https://github.com/haohanz/Music-Theory/)
 
 Excellent worksheets, with answer keys, can be found on [Gene Biringer's music theory website](http://www2.lawrence.edu/fast/BIRINGEG/media/theory_funds/index.html).
 
@@ -115,4 +115,4 @@ Topic 6: Seventh Chords
 - [Kinds of Analysis](https://github.com/haohanz/Music-Theory/blob/master/20th%20Century/Kinds%20of%20Analysis:Inquiry.pdf)
 
 
-Haohan (Carrie) Zhang, Jul 2019
+[Haohan (Carrie) Zhang](https://haohanz.github.io/), Jul 2019
