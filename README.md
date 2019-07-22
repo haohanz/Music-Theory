@@ -1,4 +1,7 @@
-# Music-Theory
+# Music-Theory  
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 Class Notes for 57-152 Harmony @ Carnegie Mellon University. [View Github](https://github.com/haohanz/Music-Theory/)
 
 Excellent worksheets, with answer keys, can be found on [Gene Biringer's music theory website](http://www2.lawrence.edu/fast/BIRINGEG/media/theory_funds/index.html).
