@@ -115,4 +115,6 @@ Topic 6: Seventh Chords
 - [Kinds of Analysis](https://github.com/haohanz/Music-Theory/blob/master/20th%20Century/Kinds%20of%20Analysis:Inquiry.pdf)
 
 
-[Haohan (Carrie) Zhang](https://haohanz.github.io/), Jul 2019
+Created by [Haohan (Carrie) Zhang](https://haohanz.github.io/), Jul 2019
+
+Copyright @ [John Paul Ito](http://www.andrew.cmu.edu/user/johnito/index.html), School of Music, Carnegie Mellon University
